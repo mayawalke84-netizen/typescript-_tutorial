@@ -28,3 +28,5 @@ function greetUser(name) {
     return "Welcome, ".concat(name, "!");
 }
 console.log(greetUser()); // Welcome, Guest!
+
+console.log(greetUser()); // Welcome, Guest!

@@ -12,3 +12,5 @@ function addition (a:any, b: any):any
 
 console.log(addition(100,200));
 console.log(addition("Hi","QA"));
+
+console.log(addition("Hi","QA"));
